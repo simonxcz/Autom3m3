@@ -1,0 +1,15 @@
+1567419261277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\FORMAT~1\\AppData\\Local\\Temp\\rust_mozprofile.nNz9Q6wZb4Pn"
+1567419261550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567419261551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567419261551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567419261551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567419262634	Marionette	INFO	Listening on port 58711
+1567419262905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567419266349	Marionette	INFO	Stopped listening on port 58711
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7212, Chrome_ChildThreaJavaScript error: resource://gre/modules/Sidebar.jsm, line 14: TypeError: window.docShell is null
+JavaScript error: https://secure.quantserve.com/aquant.js?a=p-55NyECWFJDPCA, line 17: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "window.docShell is null" {file: "resource://gre/modules/Sidebar.jsm" line: 14}]'[JavaScript Error: "window.docShell is null" {file: "resource://gre/modules/Sidebar.jsm" line: 14}]' when calling method: [nsIDOMGlobalPropertyInitializer::init]
+[Child 4928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4928, Chrome_ChildThread] WARNING: pipe error:[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1376, Chrome_ChildThread][GPU 6760

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.4 on win32)" generated="20190903 16:46:26.645" rpa="false">
+<suite id="s1" name="TP-Gherkin-Robot Framework" source="C:\Users\formation\Documents\SquashTA-1.10.0-RELEASE-workspace\TP-Gherkin-Robot Framework">
+<suite id="s1-s1" name="Gherkin" source="C:\Users\formation\Documents\SquashTA-1.10.0-RELEASE-workspace\TP-Gherkin-Robot Framework\Gherkin.robot">
+<test id="s1-s1-t1" name="Addition">
+<kw name="Given two numbers &quot;3&quot; and &quot;5&quot;">
+<kw name="Add Input" library="AdderLibrary">
+<arguments>
+<arg>${a}</arg>
+<arg>${b}</arg>
+</arguments>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.692"></status>
+</kw>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.692"></status>
+</kw>
+<kw name="Then total of result is &quot;8&quot;">
+<kw name="Total" library="AdderLibrary">
+<arguments>
+<arg>${total}</arg>
+</arguments>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.707"></status>
+</kw>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.707"></status>
+</kw>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.707" critical="yes"></status>
+</test>
+<doc>Example Gherkin Style Test</doc>
+<status status="PASS" starttime="20190903 16:46:26.692" endtime="20190903 16:46:26.707"></status>
+</suite>
+<status status="PASS" starttime="20190903 16:46:26.676" endtime="20190903 16:46:26.707"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="TP-Gherkin-Robot Framework">TP-Gherkin-Robot Framework</stat>
+<stat pass="1" fail="0" id="s1-s1" name="Gherkin">TP-Gherkin-Robot Framework.Gherkin</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

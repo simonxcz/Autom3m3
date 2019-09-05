@@ -1,0 +1,5 @@
+*** Variables ***
+Burn after reading  Brad Pitt
+Jackie Brown    Pam Grier
+The Hours    Julianne Moore
+Edward aux mains d'argent    Johnny Depp
